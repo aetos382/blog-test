@@ -23,7 +23,7 @@ jobs:
       - name: Build pages
         uses: docker://klakegg/hugo:0.81.0-ext-ubuntu
         with:
-          args: --source blog --minify
+          args: --source blog
         env:
           HUGO_ENV: production
           HUGO_CACHEDIR: /var/tmp/hugo_cache
