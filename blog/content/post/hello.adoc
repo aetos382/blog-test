@@ -1,6 +1,10 @@
 ---
 title: "Hello"
 date: 2021-03-16T15:48:47+09:00
-draft: true
+draft: false
 ---
 
+= Hello
+
+== 最初の記事
+こんにちはー！
