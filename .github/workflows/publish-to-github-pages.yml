@@ -17,16 +17,16 @@ jobs:
       - name: Cache
         uses: actions/cache@v2
         with:
-          path: .hugo_cache
+          path: /var/tmp/hugo_cache
           key: ${{ runner.os }}-hugo
 
       - name: Build pages
         uses: docker://klakegg/hugo:0.81.0-ext-ubuntu
-        env:
-          HUGO_ENV: production
-          HUGO_CACHEDIR: .hugo_cache
         with:
           args: --source blog --minify
+        env:
+          HUGO_ENV: production
+          HUGO_CACHEDIR: /var/tmp/hugo_cache
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
