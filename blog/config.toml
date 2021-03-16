@@ -1,0 +1,8 @@
+baseURL = "https://aetos382.github.io/blog-test"
+languageCode = "ja-JP"
+title = "Test Blog"
+theme = "github-style"
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+hasCJKLanguage = true
