@@ -15,9 +15,9 @@ jobs:
           fetch-depth: 0
       
       - name: Build pages
-        uses: docker://klakegg/hugo:0.81.0-ext-ubuntu
+        uses: docker://klakegg/hugo:0.81.0-ext-ubuntu-ci
         with:
-          args: --source blog --minify
+          args: hugo --source blog --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
