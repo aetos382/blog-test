@@ -15,7 +15,7 @@ jobs:
           fetch-depth: 0
       
       - name: Build pages
-        uses: docker://klakegg/hugo:0.81.0-ext-asciidoctor-ci
+        uses: docker://klakegg/hugo:0.81.0-ext-ubuntu
         with:
           args: --source blog --minify
 
