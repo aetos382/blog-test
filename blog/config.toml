@@ -1,4 +1,4 @@
-baseURL = "https://aetos382.github.io/blog-test"
+baseURL = "https://test-blog.aerie.jp"
 languageCode = "ja-JP"
 title = "Test Blog"
 theme = "github-style"
@@ -6,7 +6,7 @@ enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
 hasCJKLanguage = true
-googleAnalytics = "G-GE4Q613WBX"
+googleAnalytics = "G-XQBJVEQBMP"
 
 [params]
   author = "aetos"
