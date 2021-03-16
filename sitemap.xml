@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aetos382.github.io/blog-test/post/hello/</loc>
+    <loc>https://test-blog.aerie.jp/post/hello/</loc>
     <lastmod>2021-03-16T17:18:23+09:00</lastmod>
   </url><url>
-    <loc>https://aetos382.github.io/blog-test/post/</loc>
+    <loc>https://test-blog.aerie.jp/post/</loc>
     <lastmod>2021-03-16T17:18:23+09:00</lastmod>
   </url><url>
-    <loc>https://aetos382.github.io/blog-test/</loc>
+    <loc>https://test-blog.aerie.jp/</loc>
     <lastmod>2021-03-16T17:18:23+09:00</lastmod>
   </url><url>
-    <loc>https://aetos382.github.io/blog-test/categories/</loc>
+    <loc>https://test-blog.aerie.jp/categories/</loc>
   </url><url>
-    <loc>https://aetos382.github.io/blog-test/tags/</loc>
+    <loc>https://test-blog.aerie.jp/tags/</loc>
   </url>
 </urlset>

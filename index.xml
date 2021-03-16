@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test Blog</title>
-    <link>https://aetos382.github.io/blog-test/</link>
+    <link>https://test-blog.aerie.jp/</link>
     <description>Recent content on Test Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 16 Mar 2021 15:48:47 +0900</lastBuildDate><atom:link href="https://aetos382.github.io/blog-test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Mar 2021 15:48:47 +0900</lastBuildDate><atom:link href="https://test-blog.aerie.jp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>https://aetos382.github.io/blog-test/post/hello/</link>
+      <link>https://test-blog.aerie.jp/post/hello/</link>
       <pubDate>Tue, 16 Mar 2021 15:48:47 +0900</pubDate>
       
-      <guid>https://aetos382.github.io/blog-test/post/hello/</guid>
+      <guid>https://test-blog.aerie.jp/post/hello/</guid>
       <description>最初の記事 こんにちはー！</description>
     </item>
     
